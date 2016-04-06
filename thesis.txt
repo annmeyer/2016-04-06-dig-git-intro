@@ -9,3 +9,7 @@ THis is a workshop on Git
 #Results
 
 People learn git
+
+#Discussion
+
+You should use git for anything important
