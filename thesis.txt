@@ -1,5 +1,9 @@
 #this is my thesis
 
+#Abstract
+
+This is a workshop for DIB
+
 #Introduction
 
 THis is a workshop on Git
