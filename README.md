@@ -2,6 +2,8 @@ This is the repo for DIB git training intro
 
 You can edit in github!
 
+I'm editing on my local computer.
+
 # header 1
 
 - bullet 1
