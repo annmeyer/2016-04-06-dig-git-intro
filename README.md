@@ -1,5 +1,7 @@
 This is the repo for DIB git training intro
 
+You can edit in github!
+
 # header 1
 
 - bullet 1
