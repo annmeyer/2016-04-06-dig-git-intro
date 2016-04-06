@@ -3,3 +3,5 @@
 #Introduction
 
 THis is a workshop on Git
+
+#Methods
